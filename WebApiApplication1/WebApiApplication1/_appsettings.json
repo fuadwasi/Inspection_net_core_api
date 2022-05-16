@@ -1,0 +1,12 @@
+{
+  "ConnectionStrings": {
+    "ConnectionString": "server=DESKTOP-B69H8DC;database=InspectionDb;Integrated Security=True;Persist Security Info=False;Trust Server Certificate=True"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*"
+}
